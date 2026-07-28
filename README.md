@@ -1,4 +1,4 @@
-# PIM2026
+# uGYM
 uGYM - Gestão de Academias
 
 O objetivo deste projeto é desenvolver o sistema “UGYM”, uma plataforma online unificada destinada à administração interna de academias de pequeno e médio porte. 
